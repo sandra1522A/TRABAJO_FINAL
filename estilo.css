@@ -1,0 +1,85 @@
+main{
+    width: 980px;
+    height: 680px;
+    margin: auto;
+    background-color: rgb(12, 88, 163);
+}
+h1{
+    color: white;
+    float: left;
+    margin-left: 220px;
+    margin-top: 60px;
+}
+#logo{
+    float: right;
+    }
+header{
+    background-color: rgb(12, 131, 181);
+    height: 150px;
+}
+nav{
+    background-color: rgb(2, 35, 62);
+    height: 60px;
+    margin: 0px;
+}
+#menu{
+    margin: 0px;
+
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(33, 126, 184);
+}
+ul,ul li{
+    color: white;
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+.clear{
+clear: both;
+}
+article{
+    background-color: rgb(12, 131, 181);
+    width: 580px;
+    height: 390px;
+    float: right;
+    margin-top: 0px;
+}
+label{
+    display:inline-block;
+    width: 100px;    
+}
+form{
+    margin: auto;
+    background-color: rgb(110, 196, 213);
+    padding: 20px;
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(173, 199, 201);
+}
+fieldset{
+    padding-top: 10px;
+    border-color: aliceblue;
+}
+aside{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 390px;
+    margin: 0px;
+    float: left;
+    text-align: center;
+}
+h2{
+    margin: 0px;
+}
+footer{
+    background-color: blueviolet;
+    height: 80px;
+}
